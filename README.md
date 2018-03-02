@@ -1,1 +1,2 @@
 # Python Exercises
+test shortcut
