@@ -1,0 +1,5 @@
+print("Please fill in the blanks below:")
+print("___(name)___'s favorite video game is ___(game)___.")
+name = input("What is name? ")
+game = input("What is game? ")
+print("{}'s favorite video game is {}.".format(name, game))
