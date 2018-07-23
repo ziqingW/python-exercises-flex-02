@@ -1,2 +1,2 @@
 # Python Exercises
-test shortcut
+Exercise for Python of the class in DigitalCrafts
